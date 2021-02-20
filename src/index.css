@@ -1,0 +1,26 @@
+body {
+    margin:      0;
+    padding:     0;
+    font-family: sans-serif;
+}
+
+.App {
+    text-align: center;
+    overflow-x: hidden;
+    width:      100vw;
+    height:     100vw;
+    background: rgb(33, 29, 32);
+}
+
+.isLink {
+    color: whitesmoke;
+}
+
+.isLink:hover {
+    opacity: 0.9;
+}
+
+.sgToastifyContainer {
+    background: rgb(30, 30, 30);
+    box-shadow: 0 0.2rem 0 rgb(33, 32, 32);
+}

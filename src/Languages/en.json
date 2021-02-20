@@ -1,0 +1,77 @@
+{
+  "DownloadBtn": "Free to play!",
+  "NoteVisit": "Learn more",
+  "EventVisit": "View Event",
+  "EventDate": "Start from {start_date} till {end_date}",
+  "ViewNotes": "More Notes",
+  "ViewEvents": "More Events",
+  "ViewNews": "View",
+  "ViewAllNews": "View All News",
+  "News": "Latest News",
+
+  "GameCoverSubtitle": "Awesome MMORPG to play!",
+  "Guest": "Guest",
+  "SearchChar":"Search someone...",
+
+  "Home": "Home",
+  "ChargeZP": "Charge ZP",
+  "Shop": "Shop",
+  "Exchange": "Exchange",
+  "Redeem": "Redeem",
+  "Community": "Community",
+  "ShopAndPackages": "Shop & Packages",
+  "BuildCharacter": "Build Character",
+  "ExchangeZP": "Exchange ZP",
+  "ExchangeTransactions": "Exchange Transactions",
+  "RedeemGift": "Redeem Gift",
+  "RedeemEventRewards": "Redeem Event Rewards",
+  "Forum": "Forum",
+  "Feed": "Feed",
+  "Discord": "Discord",
+  "Telegram": "Telegram",
+  "Facebook": "Facebook",
+  "YouTube": "YouTube",
+  "ContactUs": "ContactUs",
+  "Guides": "Guides",
+
+  "AboutUs": "About us",
+  "TC": "Terms & Conditions",
+  "Policy": "Policy",
+
+
+  "Notifications": "Notifications",
+  "Messages": "Messages",
+  "Logout": "Logout",
+  "Login": "Login",
+  "Register": "Register",
+  "Recovery": "Recovery",
+
+  "Frequently": "Frequently",
+  "Support": "Support",
+  "Social": "Social Media",
+  "Us": "Us",
+  "LoadMore": "LoadMore",
+
+  "UnableToLoad": "Unable to load",
+  "Empty": "Nothing found",
+  "FailedRequest": "Something went wrong",
+
+  "PostTitle_PhotoUsers": "Photo from {user1}",
+  "PostTitle_VideoUsers": "Video from {user1}",
+  "PostTitle_PhotoMultiUsers": "Photo from {user1} and {user2}",
+  "PostTitle_VideoMultiUsers": "Video from {user1} and {user2}",
+
+  "CommentTitle_PhotoUsers": "Photo from {user1}",
+  "TitleDeleteComment": "Delete comment #{id}",
+  "DeleteCommentDescription": "Are you sure to delete this comment?",
+
+  "DeleteImageTitle":         "Deleting an image #{Id}",
+  "DeleteImageDescription":   "Are you sure you want to delete this image?",
+
+  "AddComment_Placeholder": "Write a comment...",
+  "AddComment_NoContent": "No content to preview...",
+
+  "1-001": "Only {maxFiles} files at time you can upload",
+  "1-002": "Files of type {type} not allowed, only {ext} files allowed",
+  "1-003": "File {name} too large, requires max {maxSize}"
+}

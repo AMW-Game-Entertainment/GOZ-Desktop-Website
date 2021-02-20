@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Manga Speak Two";
+    src: url('../Fonts/Mangaspeak2.eot'), /* IE9 Compat Modes */
+    url('../Fonts/Mangaspeak2.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../Fonts/Mangaspeak2.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../Fonts/Mangaspeak2.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../Fonts/MangaSpeak2.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../Fonts/Mangaspeak2.svg#svgFontName') format('svg'); /* Legacy iOS */
+    -webkit-font-feature-settings: normal;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Manga Temple";
+    src: url('../Fonts/MangaTemple.eot'), /* IE9 Compat Modes */
+    url('../Fonts/MangaTemple.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../Fonts/MangaTemple.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../Fonts/MangaTemple.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../Fonts/MangaTemple.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../Fonts/MangaTemple.svg#svgFontName') format('svg'); /* Legacy iOS */
+    -webkit-font-feature-settings: normal;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mongolian Baiti";
+    src: url('../Fonts/MongolianBaiti.eot'), /* IE9 Compat Modes */
+    url('../Fonts/MongolianBaiti.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../Fonts/MongolianBaiti.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../Fonts/MongolianBaiti.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../Fonts/MongolianBaiti.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../Fonts/MongolianBaiti.svg#svgFontName') format('svg'); /* Legacy iOS */
+    -webkit-font-feature-settings: normal;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Myanmar Text";
+    src: url('../Fonts/MyanmarText.eot'), /* IE9 Compat Modes */
+    url('../Fonts/MyanmarText.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../Fonts/MyanmarText.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../Fonts/MyanmarText.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../Fonts/MyanmarText.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../Fonts/MyanmarText.svg#svgFontName') format('svg'); /* Legacy iOS */
+    -webkit-font-feature-settings: normal;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Mangaspeak Two Stocky";
+    src: url('../Fonts/Mangaspeak2stocky-BoldItalic.eot'), /* IE9 Compat Modes */
+    url('../Fonts/Mangaspeak2stocky-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../Fonts/Mangaspeak2stocky-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../Fonts/Mangaspeak2stocky-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../Fonts/Mangaspeak2stocky-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../Fonts/Mangaspeak2stocky-BoldItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+    -webkit-font-feature-settings: normal;
+    font-weight: normal;
+    font-style: normal;
+}
